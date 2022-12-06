@@ -1,0 +1,12 @@
+node_modules
+**/.next/**
+**/_next/**
+**/dist/**
+**/__tmp__/**
+.github
+
+public/build/**
+.yarn/**
+
+out
+*.d.ts
