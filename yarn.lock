@@ -1915,6 +1915,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@remix-run/vercel@npm:^1.8.1":
+  version: 1.8.1
+  resolution: "@remix-run/vercel@npm:1.8.1"
+  dependencies:
+    "@remix-run/node": 1.8.1
+  peerDependencies:
+    "@vercel/node": ^1.8.3 || ^2.4.0
+  checksum: 629f540e233ac2b344bb6dc1bc233c6fb1cf629c405a89c907dc3f458fde8ca8a7060eb119593934013b054c45a355889d97649e9b19c3ec5999ebf18ff33937
+  languageName: node
+  linkType: hard
+
 "@remix-run/web-blob@npm:^3.0.3, @remix-run/web-blob@npm:^3.0.4":
   version: 3.0.4
   resolution: "@remix-run/web-blob@npm:3.0.4"
@@ -8788,6 +8799,7 @@ __metadata:
     "@remix-run/node": ^1.8.1
     "@remix-run/react": ^1.8.1
     "@remix-run/serve": ^1.8.1
+    "@remix-run/vercel": ^1.8.1
     "@stitches/react": ^1.2.8
     "@types/node": ^18.11.11
     "@types/react": ^18.0.25
